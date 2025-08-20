@@ -9,7 +9,7 @@
 **Astera developers**: [Tinkoprof](https://github.com/tinkoprofplus)<br>
 **Sorry For Stealing Readme**: [ImLegiitXD/Sn0w](https://github.com/ImLegiitXD/Sn0w)<br>
 **providing jar**: ???<br>
-**Adding gradle-wrapper.jar**: [bomb_crash](https://github.com/bombcrash)<br>
+**Adding gradle-wrapper.jar**: [bombcrash](https://github.com/bombcrash)<br>
 </div>
 
 <h1>[ how to use tutorial ]</h1>
