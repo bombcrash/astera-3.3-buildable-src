@@ -1,0 +1,3 @@
+C:/Users/atav4/Downloads/Astera1.21.4-master/Astera1.21.4-master/songdetector/build/CMakeFiles/SongDetector.dir
+C:/Users/atav4/Downloads/Astera1.21.4-master/Astera1.21.4-master/songdetector/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/atav4/Downloads/Astera1.21.4-master/Astera1.21.4-master/songdetector/build/CMakeFiles/ZERO_CHECK.dir

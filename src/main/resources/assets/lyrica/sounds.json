@@ -1,0 +1,53 @@
+{
+    "ui.button.click": {
+      "sounds": [
+        "random/click"
+      ],
+      "subtitle": "subtitles.ui.button.click"
+    },
+    "scroll": {
+      "sounds": [
+        "lyrica:scroll"
+      ]
+    },
+    "keypress": {
+      "sounds": [
+        "lyrica:keypress"
+      ]
+    },
+    "kill": {
+      "sounds": [
+        "lyrica:kill"
+      ]
+    },
+    "dbkill": {
+      "sounds": [
+        "lyrica:dbkill"
+      ]
+    },
+    "hlife": {
+      "sounds": [
+        "lyrica:hlife"
+      ]
+    },
+    "rollover": {
+      "sounds": [
+        "lyrica:buttonrollover"
+      ]
+    },
+    "startup": {
+      "sounds": [
+        "lyrica:startup"
+      ]
+    },
+    "enable": {
+      "sounds": [
+        "lyrica:enable"
+      ]
+    },
+    "disable": {
+      "sounds": [
+        "lyrica:disable"
+      ]
+    }
+  }

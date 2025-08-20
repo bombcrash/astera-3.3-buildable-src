@@ -1,0 +1,10 @@
+^C:\USERS\ATAV4\DOWNLOADS\ASTERA1.21.4-MASTER\ASTERA1.21.4-MASTER\SONGDETECTOR\BUILD\CMAKEFILES\79AEE82C8346B4671285C380769E7C31\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/atav4/Downloads/Astera1.21.4-master/Astera1.21.4-master/songdetector -BC:/Users/atav4/Downloads/Astera1.21.4-master/Astera1.21.4-master/songdetector/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/atav4/Downloads/Astera1.21.4-master/Astera1.21.4-master/songdetector/build/SongDetector.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

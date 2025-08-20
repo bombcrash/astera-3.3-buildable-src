@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "astera",
+	"version": "${version}",
+	"name": "Astera",
+	"description": "",
+	"authors": [
+		"0xE5",
+		"Tinkoprof",
+		"Bobtu",
+		"godmoduleu"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "do not try to crack this client",
+	"environment": "*",
+	"accessWidener" : "lyrica.accesswidener",
+	"entrypoints": {
+		"main": [
+			"me.lyrica.Lyrica"
+		]
+	},
+	"mixins": [
+		"lyrica.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.2",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

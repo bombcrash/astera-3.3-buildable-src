@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\atav4\Downloads\Astera1.21.4-master\Astera1.21.4-master\songdetector\build\CMakeFiles\79aee82c8346b4671285c380769e7c31\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{245B8A38-A20D-3069-B98A-1CD16D01AA68}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
