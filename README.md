@@ -8,7 +8,7 @@
 
 **Astera developers**: [Tinkoprof](https://github.com/tinkoprofplus)<br>
 **Sorry For Stealing Readme**: [ImLegiitXD/Sn0w](https://github.com/ImLegiitXD/Sn0w)<br>
-**providing jar**: ???
+**providing jar**: ???<br>
 **Adding gradle-wrapper.jar**: [bomb_crash](https://github.com/bombcrash)<br>
 </div>
 
