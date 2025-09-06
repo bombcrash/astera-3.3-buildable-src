@@ -25,7 +25,19 @@ cd AsteraClient
 
 <div align="center">
 
-### 2. setup the workspace
+### 2. create libs folder and add satin-3.0.0-alpha.1.jar
+
+</div>
+
+```bash
+https://modrinth.com/mod/satin-api?version=1.21.4&loader=fabric
+```
+
+<div align="center">
+
+<div align="center">
+
+### 3. setup the workspace
 
 </div>
 
@@ -35,7 +47,7 @@ cd AsteraClient
 
 <div align="center">
 
-### 3. build
+### 4. build
 
 </div>
 
